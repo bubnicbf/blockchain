@@ -1,2 +1,2 @@
-# blockchain
-mucking about with blockchain
+# rust-blockchain
+A toy blockchain written in Rust
