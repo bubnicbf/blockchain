@@ -24,3 +24,4 @@ Which will create a blockchain and start listening on HTTP port 8000 for incomin
 | Method | Resource | Description | Example
 | --- | --- | --- | --- |
 | GET | /blocks | List all blocks of the blockchain | `curl -X GET http://localhost:8000/blocks`
+
