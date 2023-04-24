@@ -26,3 +26,4 @@ Which will create a blockchain and start listening on HTTP port 8000 for incomin
 | --- | --- | --- | --- |
 | GET | /blocks | List all blocks of the blockchain | `curl -X GET http://localhost:8000/blocks`
 | POST | /transactions | Add a new transaction to the pool | `curl -X POST http://localhost:8000/transactions -H 'Content-Type: application/json' -d '{"sender": "1", "recipient": "2", "amount": 1002}'`
+
